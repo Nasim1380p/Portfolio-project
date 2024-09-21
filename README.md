@@ -9,7 +9,7 @@
 
 - Created - 2024-17-09
 
-- Technologies Used - Html5 , React , TypeScript ,tailwind 
+- Technologies Used - Html5 , React , TypeScript ,tailwind و Framer Motion
 
 - Hooks Used : useState 
 
