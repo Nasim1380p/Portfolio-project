@@ -7,7 +7,7 @@
 
 - 👩‍🎓 Developed by : nasim pirghollo
 
-- Created - 2024-17-09
+- Created - 2024-09-21
 
 - Technologies Used - Html5 , React , TypeScript ,tailwind , Framer Motion
 
