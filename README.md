@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-- [Demo Project](https://portfolio-project-blond-seven.vercel.app/) 👩‍💻
+- [Demo Project]() 👩‍💻
 
 
 
