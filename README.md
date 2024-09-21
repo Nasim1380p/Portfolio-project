@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React - TypeScript 
 
 - [Demo Project](https://portfolio-project-blond-seven.vercel.app/) 👩‍💻
 
